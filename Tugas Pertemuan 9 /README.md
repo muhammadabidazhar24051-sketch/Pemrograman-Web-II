@@ -1,4 +1,4 @@
-## 📸 Dokumentasi Hasil di Browser (Screenshots)
+## Dokumentasi Hasil di Browser (Screenshots)
 
 ### 1. Halaman Daftar Kategori Buku (`/kategori`)
 Daftar seluruh kategori menggunakan komponen Card Bootstrap yang rapi.
