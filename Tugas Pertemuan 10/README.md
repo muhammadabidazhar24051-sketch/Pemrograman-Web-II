@@ -17,4 +17,4 @@ Dokumentasi:
 ![Hasil Web](Dokumentasi/4_tampilan_dibrowser.png)
 
 ### File Kodingan
-- [Klik di sini untuk melihat semua file Tugas](Tugas%20Pertemuan%2010/Code/)
+- [file Tugas - P10](Tugas%20Pertemuan%2010/Code/)
