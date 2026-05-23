@@ -15,6 +15,3 @@ Dokumentasi:
 
 ### 3. Tampilan Halaman Testing
 ![Hasil Web](Dokumentasi/4_tampilan_dibrowser.png)
-
-### File Kodingan
-- [file Tugas - P10](Tugas%20Pertemuan%2010/Code/)
