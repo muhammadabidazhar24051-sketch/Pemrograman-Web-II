@@ -8,4 +8,4 @@ Dokumentasi:
 ![Data Anggota](Dokumentasi/Dashboard.png)
 
 ### 3. Daftar Buku
-![Data Buku](Dokumentasi/DaftarBuku.png)
+![Data Buku](Dokumentasi/Daftar_Buku.png)
