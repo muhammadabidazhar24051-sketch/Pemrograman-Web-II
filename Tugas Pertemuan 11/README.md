@@ -2,10 +2,10 @@
 Dokumentasi:
 
 ### 1. Home
-![Migration Seeding](Dokumentasi/Home.png)
+![Home](Dokumentasi/Home.png)
 
 ### 2. Dasboard
-![Data Anggota](Dokumentasi/Dashboard.png)
+![Dasboard](Dokumentasi/Dashboard.png)
 
 ### 3. Daftar Buku
-![Data Buku](Dokumentasi/Daftar_Buku.png)
+![Daftar Buku](Dokumentasi/Daftar Buku.png)
