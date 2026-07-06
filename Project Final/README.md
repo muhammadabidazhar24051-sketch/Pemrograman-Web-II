@@ -3,16 +3,16 @@ Dokumentasi:
 
 A. Authentication System
 
-### 1. Dashboard
+### 1. Login
 ![Login](Dokumentasi/Login.png)
 
-### 2. Buku
+### 2. Logout
 ![Logout](Dokumentasi/Logout.png)
 
-### 3. Anggota
+### 3. Middleware
 ![Middleware](Dokumentasi/Middleware.png)
 
-### 4. Laporan
+### 4. Register
 ![Register](Dokumentasi/Register.png)
 
 
