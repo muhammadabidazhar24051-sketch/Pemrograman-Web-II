@@ -127,4 +127,4 @@ Penyaringan data tingkat lanjut dengan multi-kriteria untuk mempermudah pencaria
 
 ### 1. Multi-Language System (5%)
 Dukungan fitur internasionalisasi yang memungkinkan pengguna mengubah bahasa antarmuka aplikasi antara Bahasa Indonesia dan English secara dinamis.
-![BahasaInggris](Dokumentasi/BahasaInggris.png)
+![BahasaInggris](Dokumentasi/Bahasalnggris.png)
