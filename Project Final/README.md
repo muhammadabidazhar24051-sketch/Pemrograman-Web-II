@@ -126,5 +126,4 @@ Penyaringan data tingkat lanjut dengan multi-kriteria untuk mempermudah pencaria
 ## I. Enhancement Bonus (+20%)
 
 ### 1. Multi-Language System (5%)
-Dukungan fitur internasionalisasi yang memungkinkan pengguna mengubah bahasa antarmuka aplikasi antara Bahasa Indonesia dan English secara dinamis.
 ![Bahasa Inggris](Dokumentasi/Bahasa_Inggris.png)
